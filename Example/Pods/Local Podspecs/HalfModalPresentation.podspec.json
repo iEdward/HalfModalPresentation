@@ -1,0 +1,22 @@
+{
+  "name": "HalfModalPresentation",
+  "version": "0.1.0",
+  "summary": "A short description of HalfModalPresentation.",
+  "description": "TODO: Add long description of the pod here.",
+  "homepage": "https://github.com/Andrey Tyushlyaev/HalfModalPresentation",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "Andrey Tyushlyaev": "edward@dezigner.ru"
+  },
+  "source": {
+    "git": "https://github.com/Andrey Tyushlyaev/HalfModalPresentation.git",
+    "tag": "0.1.0"
+  },
+  "platforms": {
+    "ios": "8.0"
+  },
+  "source_files": "HalfModalPresentation/Classes/**/*"
+}

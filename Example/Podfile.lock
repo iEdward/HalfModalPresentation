@@ -1,0 +1,16 @@
+PODS:
+  - HalfModalPresentation (0.1.0)
+
+DEPENDENCIES:
+  - HalfModalPresentation (from `../`)
+
+EXTERNAL SOURCES:
+  HalfModalPresentation:
+    :path: ../
+
+SPEC CHECKSUMS:
+  HalfModalPresentation: f471aa1f5635cb76f1414dbe27f41bbe89cf9c28
+
+PODFILE CHECKSUM: 512c535726f7574bc4ba97d84cdc7edd2431932b
+
+COCOAPODS: 1.4.0

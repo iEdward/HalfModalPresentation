@@ -1,0 +1,6 @@
+framework module HalfModalPresentation {
+  umbrella header "HalfModalPresentation-umbrella.h"
+
+  export *
+  module * { export * }
+}

@@ -1,0 +1,7 @@
+use_frameworks!
+
+target 'HalfModalPresentation_Tests' do
+  pod 'HalfModalPresentation', :path => '../'
+  
+  
+end
